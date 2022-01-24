@@ -5,7 +5,7 @@ library("devtools")
 load_all("netmeta-develop")
 
 #read in data from Dias et al (2010)
-exceldata <- read_excel("C:\\Users\\mbcx4ad6\\OneDrive - The University of Manchester\\R\\inconsistency\\netmeta-develop\\Dias2010.xlsx")
+exceldata <- read_excel(".../Dias2010.xlsx")
 Dias <- data.frame(exceldata)
 
 #Perform NMA using netmeta
