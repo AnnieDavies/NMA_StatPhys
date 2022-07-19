@@ -8,5 +8,5 @@ Dias, S., Welton, N. J., Caldwell, D. M., & Ades, A. E. (2010). Checking consist
 
 ## NMA_StatPhys_thromb.R
 
-R code to analyse the Thrombolyitc dataset and create Figures .. and .. in Davies and Galla (2022).
+R code to analyse the Thrombolyitc dataset and create Figures 7 and 8 in Davies and Galla (2022).
 
